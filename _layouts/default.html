@@ -48,5 +48,16 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+  <script>
+  const images = ['CaH/maths atheism.jpg', 'CaH/maths to machine.jpg','CaH/maths vs snow.png'];
+
+  document.getElementById('Logo').addEventListener('click', () => {
+    const randomIndex = Math.floor(Math.random() * images.length);
+    const selectedImage = images[randomIndex];
+    document.body.innerHTML = `<img src="${selectedImage}" alt="Calvin and Hobbes" style="max-width:100%; max-height:100vh; object-fit:contain;" />`;
+  });
+  </script>
+
   </body>
 </html>

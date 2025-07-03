@@ -38,13 +38,3 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
   For fellow computer scientists looking for good puzzle video games, I highly recommend the <a href="https://store.steampowered.com/app/257510/The_Talos_Principle/">Talos Principle</a> saga, and the wonderful <a href="https://www.patricksparabox.com/">Patrick's Parabox</a>.
 
   I would also be delighted to talk about bouldering, puzzle or Calvin & Hobbes.
-
-  <script>
-  const images = ['CaH/maths atheism.jpg', 'CaH/maths to machine.jpg','CaH/maths vs snow.png'];
-
-  document.getElementById(site.logo).addEventListener('click', () => {
-    const randomIndex = Math.floor(Math.random() * images.length);
-    const selectedImage = images[randomIndex];
-    document.body.innerHTML = `<img src="${selectedImage}" alt="Calvin and Hobbes" style="max-width:100%; max-height:100vh; object-fit:contain;" />`;
-  });
-</script>
