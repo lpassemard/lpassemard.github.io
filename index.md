@@ -27,7 +27,7 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
       <h4 class="year">Spring 2024</h4>
         <div class="timeline-events">
           <div class="timeline-item">
-            <p> Introduction à la Programmation 2, Java<br>L1, <i>Université Paris Cité</i> <br> Exercise and lab classes. Lecturer: <a href="https://www.irif.fr/~gmanzone/">Giulio Manzonetto</a>. </p>
+            <p> Introduction to Programming 2, Java<br>L1, <i>Université Paris Cité</i> <br> Exercise and lab classes. Lecturer: <a href="https://www.irif.fr/~gmanzone/">Giulio Manzonetto</a>. </p>
           </div>
         </div>
       </div>
@@ -35,6 +35,16 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
 
 <h3>Other interests</h3>
   Spent too much time on <a href="https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/">The Binding of Isaac</a> (<i>Dead God</i> achieved the 5<sup>th</sup> of June 2025).<br>
-  For fellow computer scientists looking for good puzzle video games, I personally highly recommend the <a href="https://store.steampowered.com/app/257510/The_Talos_Principle/">Talos Principle</a> saga, and the wonderful <a href="https://www.patricksparabox.com/">Patrick's Parabox</a>.
+  For fellow computer scientists looking for good puzzle video games, I highly recommend the <a href="https://store.steampowered.com/app/257510/The_Talos_Principle/">Talos Principle</a> saga, and the wonderful <a href="https://www.patricksparabox.com/">Patrick's Parabox</a>.
 
   I would also be delighted to talk about bouldering, puzzle or Calvin & Hobbes.
+
+  <script>
+  const images = ['CaH/maths atheism.jpg', 'CaH/maths to machine.jpg','CaH/maths vs snow.jpg'];
+
+  document.getElementById(site.logo).addEventListener('click', () => {
+    const randomIndex = Math.floor(Math.random() * images.length);
+    const selectedImage = images[randomIndex];
+    document.body.innerHTML = `<img src="${selectedImage}" alt="Calvin and Hobbes" style="max-width:100%; max-height:100vh; object-fit:contain;" />`;
+  });
+</script>
