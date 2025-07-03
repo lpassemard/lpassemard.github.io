@@ -13,7 +13,7 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
       <h4 class="year">2025</h4>
       <div class="timeline-events">
         <div class="timeline-item">
-          <p><i><a href="http://www.tac.mta.ca/tac/volumes/44/4/44-04abs.html">Higher-Dimensional Automata : Extension to Infinite Tracks</a></i><br>
+          <p><i>Higher-Dimensional Automata : Extension to Infinite Tracks</i><br>
           with <a href="https://www.lre.epita.fr/perso/amazigh-amrane/">Amazigh Amrane</a> and <a href="https://ulifahrenberg.github.io/">Uli Fahrenberg</a><br>
           10th International Conference on Formal Structures for Computation and Deduction (FSCD 2025)</p>
         </div>
