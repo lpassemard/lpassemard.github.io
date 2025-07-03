@@ -40,7 +40,7 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
   I would also be delighted to talk about bouldering, puzzle or Calvin & Hobbes.
 
   <script>
-  const images = ['CaH/maths atheism.jpg', 'CaH/maths to machine.jpg','CaH/maths vs snow.jpg'];
+  const images = ['CaH/maths atheism.jpg', 'CaH/maths to machine.jpg','CaH/maths vs snow.png'];
 
   document.getElementById(site.logo).addEventListener('click', () => {
     const randomIndex = Math.floor(Math.random() * images.length);
