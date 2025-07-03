@@ -1,25 +1,24 @@
 title: Luc Passemard
-logo: /assets/img/profile.jpg
+logo: /assets/img/profile.png
 show_downloads: false
 description: ""
 google_analytics:
 theme: jekyll-theme-minimal
 
 # Biographic information
-avatar           : "profile.jpg"
+avatar           : "profile.png"
 name             : "Luc Passemard"
 pronouns         : "he/they"  
-bio              : "PhD student in Computer Science at IRIF (France)"
+bio              : "PhD student in Computer Science at IRIF"
 location         : "Office 4060 <br>8 place Aurélie Nemours <br>75013 Paris"
 employer         : "Université Paris Cité"
-uri              : # URL
 email            : "luc.passemard@irif.fr" 
 
 # Academic websites
-arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Passemard,+L"
-googlescholar    : 
-researchgate     : 
-scopus           : 
+#arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Passemard,+L"
+#googlescholar    : 
+#researchgate     : 
+#scopus           : 
   
 
 remote_theme: pages-themes/minimal@v0.2.0
