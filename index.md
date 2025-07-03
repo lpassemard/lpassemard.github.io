@@ -37,4 +37,4 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
   Spent too much time on <a href="https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/">The Binding of Isaac</a> (<i>Dead God</i> achieved the 5<sup>th</sup> of June 2025).<br>
   For fellow computer scientists looking for good puzzle video games, I highly recommend the <a href="https://store.steampowered.com/app/257510/The_Talos_Principle/">Talos Principle</a> saga, and the wonderful <a href="https://www.patricksparabox.com/">Patrick's Parabox</a>.
 
-  I would also be delighted to talk about bouldering, puzzle or Calvin & Hobbes.
+  I would also be delighted to talk about bouldering, puzzles or Calvin & Hobbes.
