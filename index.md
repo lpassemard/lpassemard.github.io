@@ -20,15 +20,15 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
 </div>
 
 <h3>Teaching</h3>
-
-  <div class="timeline-year">
-    <h4 class="year">Spring 2024</h4>
-      <div class="timeline-events">
-        <div class="timeline-item">
-          <p> Introduction à la Programmation 2 <br>Java, <i>Université Paris Cité</i> <br> Exercise and lab classes. Lecturer: <a href="https://www.irif.fr/~gmanzone/">Giulio Manzonetto</a>. </p>
+  <div class="timeline">
+    <div class="timeline-year">
+      <h4 class="year">Spring 2024</h4>
+        <div class="timeline-events">
+          <div class="timeline-item">
+            <p> Introduction à la Programmation 2, Java<br>L1, <i>Université Paris Cité</i> <br> Exercise and lab classes. Lecturer: <a href="https://www.irif.fr/~gmanzone/">Giulio Manzonetto</a>. </p>
+          </div>
         </div>
       </div>
-    </div>
 </div>
 
 <h3>Other interests</h3>
