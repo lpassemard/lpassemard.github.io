@@ -29,7 +29,7 @@
         <h1><a href="{{ "/" }}">{{ site.title }}</a></h1>
         <small><p align="right"> {{site.pronouns}} </p></small>
         {% if site.logo %}
-            <a id="Logo" onclick="toRandomImage"><img src="{{ site.logo | relative_url }}" style="width:100%;"/></a>
+            <a id="Logo" onclick="toRandomImage()"><img src="{{ site.logo | relative_url }}" style="width:100%;"/></a>
         {% endif %}
 
         <p> <center>{{site.bio}}</center> </p>
