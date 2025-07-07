@@ -1,6 +1,6 @@
 <!DOCTYPE html>
+<head>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,6 +11,17 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+	<script>
+    function toRandomImage() {
+  		const images = [
+	  		'assets/CaH/math atheism.jpg',
+		  	'assets/CaH/math to machine.jpg',
+			  'assets/CaH/math vs snow.png',
+		  ];
+      const image = images[Math.floor(Math.random() * images.length)];
+      window.location.href = image;
+    }
+	  </script>
   </head>
   <body>
     <div class="wrapper">
@@ -18,7 +29,7 @@
         <h1><a href="{{ "/" }}">{{ site.title }}</a></h1>
         <small><p align="right"> {{site.pronouns}} </p></small>
         {% if site.logo %}
-            <a href="assets/CaH/math atheism.jpg" id="Logo"><img src="{{ site.logo | relative_url }}" style="width:100%;"/></a>
+            <a id="Logo" onclick="toRandomImage"><img src="{{ site.logo | relative_url }}" style="width:100%;"/></a>
         {% endif %}
 
         <p> <center>{{site.bio}}</center> </p>
@@ -49,13 +60,5 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 
-	<script>
-		const images = [
-			'assets/CaH/math atheism.jpg',
-			'assets/CaH/math to machine.jpg',
-			'assets/CaH/math vs snow.png',
-		];
-		document.getElementById("Logo").href = images[Math.floor(Math.random() * images.length)];
-	  </script>
   </body>
 </html>
