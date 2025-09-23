@@ -48,6 +48,7 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
           </div>
         </div>
       </div>
+  </div>
 
 
 
