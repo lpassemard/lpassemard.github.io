@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a first-year PhD student in Theoretical Computer Science at <a href="https://www.irif.fr">IRIF</a>, under the supervision of <a href="https://www.irif.fr/~carton/">Olivier Carton</a>. I work on Automata Theory and Formal Languages, aiming to characterize different classes of regular functions both semantically and syntactically, with a particular taste for infinite words.
+I am a second-year PhD student in Theoretical Computer Science at <a href="https://www.irif.fr">IRIF</a>, under the supervision of <a href="https://www.irif.fr/~carton/">Olivier Carton</a>. I work on Automata Theory and Formal Languages, aiming to characterize different classes of regular functions both semantically and syntactically, with a particular taste for infinite words.
 
 Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s student, I graduated in 2024, with also a Master's degree in Theoretical Computer Science at the <a href="https://u-paris.fr/">Université Paris Cité</a> (programme <a href="https://wikimpri.dptinfo.ens-paris-saclay.fr/doku.php">MPRI</a>).
 
@@ -51,6 +51,7 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
         </div>
       </div>
     </div>
+
 
 
 <h3>Other interests</h3>
