@@ -31,7 +31,29 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
           </div>
         </div>
       </div>
-</div>
+    </div>
+
+  <div class="timeline">
+    <div class="timeline-year">
+      <h4 class="year">Fall 2025</h4>
+        <div class="timeline-events">
+          <div class="timeline-item">
+            <p> Oriented-object programming, Java<br>L1, <i>Université Paris Cité</i> <br> Exercise and lab classes. Lecturer: <a href="https://christinaboura.wordpress.com/">Christina Boura</a>. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  <div class="timeline">
+    <div class="timeline-year">
+      <h4 class="year">Fall 2025</h4>
+        <div class="timeline-events">
+          <div class="timeline-item">
+            <p> Automata and Lexical Analysis<br>L1, <i>Université Paris Cité</i> <br> Exercise classes. Lecturer: <a href="https://www.irif.fr/~treinen/">Ralf Treinen</a>. </p>
+          </div>
+        </div>
+      </div>
+    </div>
 
 <h3>Other interests</h3>
   Spent too much time on <a href="https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/">The Binding of Isaac</a> (<i>Dead God</i> achieved the 5<sup>th</sup> of June 2025).<br>
