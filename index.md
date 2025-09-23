@@ -32,7 +32,6 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
           </div>
         </div>
       </div>
-    </div>
     <div class="timeline-year">
       <h4 class="year">Fall 2025</h4>
         <div class="timeline-events">
@@ -41,7 +40,6 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
           </div>
         </div>
       </div>
-    </div>
     <div class="timeline-year">
       <h4 class="year">Spring 2025</h4>
         <div class="timeline-events">
@@ -50,7 +48,6 @@ Former <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a>'s studen
           </div>
         </div>
       </div>
-    </div>
 
 
 
